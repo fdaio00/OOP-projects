@@ -198,9 +198,7 @@ class clsDevolper : clsEmployee
 {
 
 private:
-    string _Title;
-    string _Department;
-    double _Salary;
+  
     string _MainProgrammingLanguage;
 
 public:
@@ -211,25 +209,7 @@ public:
         _MainProgrammingLanguage = MainProgrammingLanguage;
     }
 
-    void setSalary(double devSalary)
-    {
-        _Salary = devSalary;
-
-    }
-
-    double devSalary()
-    {
-        return _Salary;
-    }
-    void setTitel(string devTitle)
-    {
-        _Title = devTitle;
-    }
-
-    string devTitle()
-    {
-        return _Title;
-    }
+  
 
     void setMainProgrammingLanguage(string MainLanguage)
     {
