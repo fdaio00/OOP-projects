@@ -1,0 +1,9 @@
+﻿  Queue Line Project.cpp
+C:\Users\feda'a\source\repos\Queue Line Project\Queue Line Project\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\feda'a\source\repos\Queue Line Project\Queue Line Project\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\feda'a\source\repos\Queue Line Project\Queue Line Project\clsString.h(60,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\feda'a\source\repos\Queue Line Project\Queue Line Project\clsString.h(197,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\feda'a\source\repos\Queue Line Project\Queue Line Project\clsString.h(328,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\feda'a\source\repos\Queue Line Project\Queue Line Project\clsString.h(376,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\feda'a\source\repos\Queue Line Project\Queue Line Project\clsQueueLine.h(108,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Queue Line Project.vcxproj -> C:\Users\feda'a\source\repos\Queue Line Project\x64\Debug\Queue Line Project.exe

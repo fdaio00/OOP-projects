@@ -1,0 +1,21 @@
+﻿  Algorithim level 5.cpp
+C:\Users\feda'a\source\repos\Algorithim level 5\Algorithim level 5\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\feda'a\source\repos\Algorithim level 5\Algorithim level 5\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\feda'a\source\repos\Algorithim level 5\Algorithim level 5\clsString.h(60,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\feda'a\source\repos\Algorithim level 5\Algorithim level 5\clsString.h(197,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\feda'a\source\repos\Algorithim level 5\Algorithim level 5\clsString.h(328,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\feda'a\source\repos\Algorithim level 5\Algorithim level 5\clsString.h(376,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\algorithm(21,1): error C2059: syntax error: 'string'
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\algorithm(21,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\algorithm(40,1): error C2059: syntax error: 'namespace'
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\algorithm(40,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\queue(22,1): error C2059: syntax error: 'namespace'
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\queue(22,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\feda'a\source\repos\Algorithim level 5\Algorithim level 5\clsQueueLine.h(8,7): error C2059: syntax error: 'using namespace'
+C:\Users\feda'a\source\repos\Algorithim level 5\Algorithim level 5\clsQueueLine.h(8,20): error C2238: unexpected token(s) preceding ';'
+C:\Users\feda'a\source\repos\Algorithim level 5\Algorithim level 5\clsQueueLine.h(87,11): error C2143: syntax error: missing ';' before '<'
+C:\Users\feda'a\source\repos\Algorithim level 5\Algorithim level 5\clsQueueLine.h(87,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\feda'a\source\repos\Algorithim level 5\Algorithim level 5\clsQueueLine.h(87,32): error C2238: unexpected token(s) preceding ';'
+C:\Users\feda'a\source\repos\Algorithim level 5\Algorithim level 5\Algorithim level 5.cpp(9,7): error C2059: syntax error: 'using namespace'
+C:\Users\feda'a\source\repos\Algorithim level 5\Algorithim level 5\Algorithim level 5.cpp(9,20): error C2238: unexpected token(s) preceding ';'
+C:\Users\feda'a\source\repos\Algorithim level 5\Algorithim level 5\clsDate.h(15): fatal  error C1075: '{': no matching token found
